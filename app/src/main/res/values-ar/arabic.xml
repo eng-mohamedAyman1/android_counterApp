@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق عداد</string>
+    <string name="counter_app">تطبيق عداد</string>
+    <string name="_0">٠</string>
+    <string name="increment">زيادة</string>
+    <string name="textview">نص</string>
+    <string name="plus">+</string>
+    <string name="min">-</string>
+    <string name="restart">البداية </string>
+</resources>
